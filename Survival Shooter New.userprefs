@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Survival Shooter 0.4+\Assets\Scripts\Enemy\EnemyHealth.cs">
+    <Files>
+      <File FileName="..\Music Instruments Encyclopedy\Assets\myARViolin.cs" Line="1" Column="1" />
+      <File FileName="..\Music Instruments Encyclopedy\Assets\Qualcomm Augmented Reality\Scripts\DefaultTrackableEventHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\EnemyHealth.cs" Line="11" Column="2" />
+      <File FileName="..\Survival Shooter 0.4+\Assets\Scripts\Enemy\EnemyHealth.cs" Line="69" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
